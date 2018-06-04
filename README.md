@@ -2,7 +2,7 @@
 R Project Report on Terrorism on South Asian Countries
 
 ## Software and Language Used
-[`R Studio`](https://www.rstudio.com/) software and thud `R` language was used for data analysis. Code is included in the .pdf above in the repository.
+[`R Studio`](https://www.rstudio.com/) software and thus `R` language was used for data analysis. Code is included in the .pdf file  above in the repository.
 
 ## About the repository
 - This repository includes the report as well as powerpoint presentation.
